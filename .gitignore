@@ -424,3 +424,13 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# === YOLOv8 / PyTorch веса и артефакты ===
+*.pt
+*.pth
+*.onnx
+runs/
+test_media/
+
+
+/lab_4/lab_4/metrics_report.txt
