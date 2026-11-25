@@ -1,0 +1,6 @@
+path: ./dataset
+train: images/train
+val: images/val
+
+nc: 1  # количество классов
+names: ['traffic_cone']  # список имен классов (0: traffic_cone)
